@@ -14,7 +14,6 @@ namespace Fundamentos.UI
             do
             {
                 Console.Clear();
-                Console.WriteLine("Digite uma das opções abaixo:");
                 Console.WriteLine("1. Cadastrar Cliente");
                 Console.WriteLine("2. Buscar Cliente");
                 Console.WriteLine("3. Apagar Cliente");
