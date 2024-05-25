@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using Aula_01.Models;
-using Aula_01.UI;
+using Fundamentos.Models;
+using Fundamentos.UI;
 
 //Console.WriteLine("Hello, World!");
 

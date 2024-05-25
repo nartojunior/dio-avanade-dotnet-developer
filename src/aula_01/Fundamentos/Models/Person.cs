@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Aula_01.Models;
+namespace Fundamentos.Models;
 
 public class Person
 {
